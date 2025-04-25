@@ -22,7 +22,7 @@ An AI-based traffic surveillance system that uses real-time object detection to 
 - Matplotlib
 
 ## Project Structure
-
+```
 ├── cfg/                   # YOLO config files
 ├── darkflow/              # Darkflow object detection code
 ├── flow/                  # Data flow and utility scripts
@@ -32,7 +32,7 @@ An AI-based traffic surveillance system that uses real-time object detection to 
 ├── vehicle_detection.py   # Vehicle detection script
 ├── simulation.py          # Traffic simulation script
 ├── requirements.txt       # Python dependencies
-
+```
 
 ## How to Run
 
